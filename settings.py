@@ -1,6 +1,5 @@
 # main.py
-API_TOKEN = "6293323584:AAH_PcqjcqA5wSpyNo5HYXz6vKOBuqqOcdo"
-#API_TOKEN = "6839518504:AAG2nKvASwN9Lbqoi0Yn4LNhNzbHI6Yyhjg"
+API_TOKEN = ""
  
 ADMIN_IDS = [530468449]
 admin_url = 't.me/maybexecute'
