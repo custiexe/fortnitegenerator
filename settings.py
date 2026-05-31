@@ -1,0 +1,12 @@
+# main.py
+API_TOKEN = "6293323584:AAH_PcqjcqA5wSpyNo5HYXz6vKOBuqqOcdo"
+#API_TOKEN = "6839518504:AAG2nKvASwN9Lbqoi0Yn4LNhNzbHI6Yyhjg"
+ 
+ADMIN_IDS = [530468449]
+admin_url = 't.me/maybexecute'
+
+BOT_ENABLED = True
+AUTO_UPDATE_ENABLED = True
+BACKUP_ENABLED = True
+LAST_SHOP_HASH = None
+LAST_ITEM_COUNT = 0
